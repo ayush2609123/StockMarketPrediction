@@ -67,6 +67,17 @@ Data is scaled using `MinMaxScaler` to normalize input features, ensuring that t
 The model is trained on historical price data, learning to predict the next day’s closing price based on patterns observed over the past 100 days. Training involves adjusting the model to recognize complex patterns in the historical price sequences.
 
 ---
+## Results 
+<img width="917" alt="Screenshot 2025-02-14 at 12 51 30 AM" src="https://github.com/user-attachments/assets/8c89fce4-2f9e-4343-b59b-5b7d6abb455d" />
+<img width="925" alt="Screenshot 2025-02-14 at 12 51 22 AM" src="https://github.com/user-attachments/assets/cc5bdb2d-8a57-4259-bc6b-0bc54579f765" />
+<img width="954" alt="Screenshot 2025-02-14 at 12 51 10 AM" src="https://github.com/user-attachments/assets/0e8163c2-8b8f-47d6-ae22-2687349237b6" />
+<img width="942" alt="Screenshot 2025-02-14 at 12 51 02 AM" src="https://github.com/user-attachments/assets/4ae6c92f-1b0a-447e-afcf-c7a1c10116c3" />
+<img width="911" alt="Screenshot 2025-02-14 at 12 50 56 AM" src="https://github.com/user-attachments/assets/028a5807-1b51-4f0a-9a3f-b2c8d0e229c0" />
+<img width="915" alt="Screenshot 2025-02-14 at 12 50 48 AM" src="https://github.com/user-attachments/assets/adc90bee-d618-4d02-b774-5fe2516b9178" />
+<img width="913" alt="Screenshot 2025-02-14 at 12 50 42 AM" src="https://github.com/user-attachments/assets/a51ee114-7384-44b2-a25e-05668120a6dc" />
+<img width="919" alt="Screenshot 2025-02-14 at 12 50 36 AM" src="https://github.com/user-attachments/assets/527ec5b9-e788-4683-ab02-907466ee1bad" />
+<img width="930" alt="Screenshot 2025-02-14 at 12 50 30 AM" src="https://github.com/user-attachments/assets/a1941a03-3cb5-4675-8191-2936aa35d7ae" />
+<img width="919" alt="Screenshot 2025-02-14 at 12 50 19 AM" src="https://github.com/user-attachments/assets/4d166aba-8c48-4480-96b1-c1305231331e" />
 
 ## Conclusion
 
